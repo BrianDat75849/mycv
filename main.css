@@ -11,17 +11,16 @@ img {
     margin-top: 43px;
 }
 
-
+.row.content {
+    margin-top: 33px;
+}
 .section {
-    background: #04043b ;
+    background: #04043b;
+    padding-top: 33px;
 }
 .section h1 {color: white;}
 .section h4 {color: white;}
 
-.container footer{
-    height: 50px;
-    background-color: #04043b;
-}
 .infoleft.col-md-8 {background-color: rgba(128, 128, 128, 0.87);}
 .subgroup{margin-top:-14px;}
 .maingroup h1 {margin-bottom: -14px;}
@@ -30,4 +29,19 @@ img {
 .infoleft1.col-md-8 {background-color: rgba(128, 128, 128, 0.87);}
 .infoleft.col-md-8 hr{border-top: dotted 1.5px whitesmoke;}
 .infoleft1.col-md-8 hr{border-top: dotted 1.5px whitesmoke;}
-.inforight.col-md-4 hr{border-top: dotted 2px black;}}
+.inforight.col-md-4 hr{border-top: dotted 2px black;}
+.box {
+    height: 50px;
+    background-color: #04043b;
+}
+.content .col-md-12 {
+    padding: 0px;
+}
+.box2 {
+    height: 20px;
+    background-color: #04043b;
+}
+.text-white {
+    font-size:19px;
+    color:white;
+}
